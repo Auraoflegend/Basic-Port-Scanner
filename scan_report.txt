@@ -1,0 +1,20 @@
+===== Port Scan Report =====
+Target IP       : 192.168.233.130
+Scan Type       : TCP
+Port Range      : 0-80
+Scan Time       : 2025-04-30 12:31:19.452003
+Open Ports      :
+  - Port 21 (ftp)
+  - Port 22 (ssh)
+  - Port 23 (telnet)
+  - Port 25 (smtp)
+  - Port 53 (domain)
+  - Port 80 (http)
+  
+===== Port Scan Report =====
+Target IP       : 44.228.249.3
+Scan Type       : TCP
+Port Range      : 0-80
+Scan Time       : 2025-04-30 12:33:36.423451
+Open Ports      :
+  - Port 80 (http)
