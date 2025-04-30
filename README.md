@@ -16,18 +16,6 @@ A basic Python-based **Port Scanner** that allows you to:
 - Saves scan details (IP, protocol, time, open ports) into `scan_report.txt`
 
 
-## 📷 Screenshots
-
-### 1. TCP Scan with One Open Port
-![TCP Scan Single Port Result](./screenshots/scan1.png)
-
-### 2. TCP Scan with Multiple Open Ports
-![Multiple Port Open Results](./screenshots/scan2.png)
-
-### 3. Generated Report File
-![Scan Report](./screenshots/scan_report.png)
-
-
 ## 🚀 How It Works
 1. User inputs target IP address.
 2. Chooses between custom port range or full port scan.
