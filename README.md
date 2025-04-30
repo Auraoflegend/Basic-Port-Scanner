@@ -6,7 +6,7 @@ A basic Python-based **Port Scanner** that allows you to:
 - Choose between **TCP** or **UDP** scanning
 - Display **open ports with service names**
 - Save scan results into a formatted **report file**
-- Show a **progress bar** while scanning
+  
 
 ## 🛠️ Features
 - Custom IP input
@@ -14,7 +14,7 @@ A basic Python-based **Port Scanner** that allows you to:
 - Port range or full port scan (0–65535)
 - Open port detection with associated service name
 - Saves scan details (IP, protocol, time, open ports) into `scan_report.txt`
-- Real-time progress feedback
+
 
 ## 📷 Screenshots
 
@@ -67,7 +67,7 @@ python Port_Scanner.py
 
 ## 🔗 GitHub Repository
 > Upload this project and update the URL here:
-**[GitHub Repo Link]()**
+**[GitHub Repo Link](https://github.com/Auraoflegend/Basic-Port-Scanner.git)**
 
 ---
 **Author**: Aditya  
